@@ -72,3 +72,4 @@ for i in games_:
         print("           Games list:")
         disposable += 1
     print(f"    {i}")
+    
